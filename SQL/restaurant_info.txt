@@ -1,0 +1,2 @@
+Go to url: 
+  https://replit.com/@ChayapatLeelapr/SQLHomeworkBatch6#main.sql
