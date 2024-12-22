@@ -17,5 +17,5 @@ jobs:
           project_name: ${{ github.repository }}
           cx_tenant: nfr_yipintsoi
           base_uri: https://anz.ast.checkmarx.net/ 
-          cx_client_id: ${{ secrets.CX_CLIENT_ID }}
-          cx_client_secret: ${{ secrets.CX_CLIENT_SECRET }}
+          cx_client_id: ${{ secrets.Github_Client }}
+          cx_client_secret: ${{ secrets.YEzxco56wfjaKIkjEqeWMGD0hYjsKPSF }}
